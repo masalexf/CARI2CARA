@@ -1,0 +1,6 @@
+[submodule "themes/tema"]
+	path = themes/tema
+	url = https://github.com/donihalim/blogqu
+[submodule "themes/tema1"]
+	path = themes/tema1
+	url = https://github.com/nanxiaobei/hugo-paper
