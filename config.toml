@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://masalexf.github.io/CARI2CARA/'
 languageCode = 'en-us'
 title = 'CARI2CARA'
 theme = 'tema' 
